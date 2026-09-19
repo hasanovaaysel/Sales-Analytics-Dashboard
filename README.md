@@ -10,7 +10,7 @@ An interactive **Sales Analytics Dashboard** built in Microsoft Excel to analyze
 
 ### Filtered View
 
-![Sales Filtered](Sales.png)
+![Sales Filtered](images/Sales.png)
 
 ## 🎯 Project Objective
 
